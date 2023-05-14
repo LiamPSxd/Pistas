@@ -41,12 +41,6 @@
  			<groupId>wsdl4j</groupId>
  			<artifactId>wsdl4j</artifactId>
  		</dependency>
-
-		<dependency>           
-   			<groupId>org.json</groupId>
-   			<artifactId>json</artifactId>
-   			<version>20230227</version>
- 		</dependency>
 	</dependencies>
 
 	<build>
